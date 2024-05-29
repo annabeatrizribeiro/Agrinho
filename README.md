@@ -7,8 +7,8 @@
 - ### Colégio Estadual Rio Branco
 - ### NRE-Ivaiporã
 - ### Link do projeto no Github pages: https://github.com/annabeatrizribeiro/Agrinho
-- ### Link do projeto no Vercel https://projeto-uva-niagara.vercel.app/
-- ### 👀 👨‍💻 Gosto de programação, principalmente html, css e um pouco de Javascript...
+- ### Link do projeto no Vercel https://vercel.com/annabeatrizribeiros-projects
+ 
 - ### Front end e Back end...
 
 - ### Link onde retirei as imagens: https://pixabay.com/pt/
